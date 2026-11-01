@@ -1,0 +1,19 @@
+
+# Archivos generados por Android Studio
+*.iml
+.gradle/
+.kotlin/
+.idea/
+
+# Archivos de compilacion
+build/
+**/build/
+
+# Configuracion local
+local.properties
+
+# Archivos temporales
+.DS_Store
+Thumbs.db
+.externalNativeBuild/
+.cxx/
